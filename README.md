@@ -1,6 +1,6 @@
 ### Hi there 👋
-
-# [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wngkfla01&layout=compact)](https://github.com/wngkfla01)
+# 🏋🏻Skills
+### Main Lanauage
 
 
 <!--
