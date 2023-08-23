@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=egg&color=auto&height=70&section=header&text=안녕하세요!&fontSize=40)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=70&section=header&text=안녕하세요!&fontSize=40)
 ![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=70&section=header&text=안녕하세요!&fontSize=40)
 ![header](https://capsule-render.vercel.app/api?type=rect&color=auto&height=70&section=header&text=안녕하세요!&fontSize=40)
 ![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=70&section=header&text=안녕하세요!&fontSize=40)
