@@ -1,8 +1,5 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=70&section=header&text=안녕하세요!&fontSize=40)
-![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=70&section=header&text=안녕하세요!&fontSize=40)
-![header](https://capsule-render.vercel.app/api?type=rect&color=auto&height=70&section=header&text=안녕하세요!&fontSize=40)
-![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=70&section=header&text=안녕하세요!&fontSize=40)
-![header](https://capsule-render.vercel.app/api?type=rounded&color=auto&height=70&section=header&text=안녕하세요!&fontSize=40)
+![header](https://capsule-render.vercel.app/api?type=rounded&color=auto&height=70&section=header&text=안녕하세요!%20유쾌한%20개발자,%20주하림입니다!&fontSize=40)
+
 # 🏋🏻Skills
 ### Development
 <img src="https://img.shields.io/badge/react-%2361DAFB.svg?&style=for-the-badge&logo=react&logoColor=black" /> <img src="https://img.shields.io/badge/typescript-%233178C6.svg?&style=for-the-badge&logo=typescript&logoColor=white" /> <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/html5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/node.js-%23339933.svg?&style=for-the-badge&logo=node.js&logoColor=white" /><br /><img src="https://img.shields.io/badge/ant%20design-%230170FE.svg?&style=for-the-badge&logo=ant%20design&logoColor=white" /> <img src="https://img.shields.io/badge/styled--components-%23DB7093.svg?&style=for-the-badge&logo=styled-components&logoColor=white" /> 
