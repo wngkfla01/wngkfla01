@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=rounded&color=auto&height=70&section=header&text=안녕하세요!%20유쾌한%20개발자,%20주하림입니다!&fontSize=40)
+![header](https://capsule-render.vercel.app/api?type=rect&height=200&text=Stroke%20Test&fontAlign=70&stroke=00FF00)
 
 # 🏋🏻Skills
 ### Development
